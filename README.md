@@ -7,4 +7,6 @@
 #### 1. JDK - 11
 #### 2. Tomcat - 9.0.88
 
-[USED(발표자료).pdf](https://github.com/user-attachments/files/15797766/USED.pdf)
+##### 이하의 첨부는 발표 자료 입니다.
+
+[USED(발표 자료).pdf](https://github.com/user-attachments/files/15797766/USED.pdf)
